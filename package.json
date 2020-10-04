@@ -18,7 +18,7 @@
     "express-graphql": "^0.11.0",
     "googleapis": "^52.1.0",
     "graphql": "^15.3.0",
-    "graphql-tools": "^6.0.14",
+    "graphql-tools": "^6.2.4",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.5.8",
     "mongoose": "^5.9.17",
@@ -27,5 +27,8 @@
     "nodemailer-sendgrid": "^1.0.3",
     "nodemon": "^2.0.4",
     "validator": "^13.1.1"
+  },
+  "engines": {
+    "node": "13.7.0"
   }
 }
